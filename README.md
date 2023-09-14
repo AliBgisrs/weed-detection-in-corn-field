@@ -15,7 +15,7 @@ Installation
 
 ARCGIS PRO version 3
 
-[Download the tool]
+[Download the tool and the "rfw1.pkl" model]
 
 [Go to the insert tab of your ArcGIS PRO project]
 
