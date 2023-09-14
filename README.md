@@ -1,4 +1,4 @@
-# weed-detection-in-corn-field
+# Automating development of weed prescription map in corn field
 If you require automatic weed detection in a cornfield, this tool is a valuable resource. It operates on a trained Random Forest model using a dataset consisting of over 20,000 polygons representing corn and weeds. 
 
 ![image](https://github.com/AliBgisrs/weed-detection-in-corn-field/assets/109620013/f8236615-08b0-450e-9bd2-35c01fb81d45)
